@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"github/AIngleLab/ainglecoin/ainglecoin.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"github/AIngleLab/ainglecoin/ainglecoin.sol": {
+			"keccak256": "0x9ca9102cc3459fbbd1b8baa26ca0bf97d98abcc8c5c5a692f2afa96af1d6c200",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://180a565c0e0388b04339fb4bd4c0d339858ca279dfb7284abfcfbef08e94a3f7",
+				"dweb:/ipfs/QmbXzitDkmvwzb1q6Njx3Yhbm9vgZgfRtFay9Ek3eLWdzL"
+			]
+		}
+	},
+	"version": 1
+}
