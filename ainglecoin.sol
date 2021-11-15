@@ -342,7 +342,7 @@ contract AINGLECOIN is Context, IERC20, Ownable {
     uint256 private _tFeeTotal;
 
     string private _name = 'AIngle Coin';
-    string private _symbol = 'AINGLECOIN';
+    string private _symbol = 'AI';
     uint8 private _decimals = 9;
     uint8 public transfertimeout = 15;
     uint256 public _maxTxAmount = 10000000 * 10**6 * 10**9;
